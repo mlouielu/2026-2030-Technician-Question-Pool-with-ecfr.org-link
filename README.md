@@ -29,6 +29,10 @@ uv sync
 bash ./run.sh
 ```
 
+## Reference
+
+* 2026-2030 Technician Question Pool Public Release: https://www.ncvec.org/index.php/2026-2030-technician-question-pool
+
 ## LICENSE
 
 CC0-1.0, see [LICENSE](LICENSE)
