@@ -1,0 +1,9 @@
+[project]
+name = "2026-2030-tech-license-pool-add-ecfr"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "python-docx>=1.2.0",
+]
